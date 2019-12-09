@@ -39,6 +39,10 @@ const server = new ApolloServer({
 				...user.dataValues
 			}
 		};
+	},
+
+	engine: {
+		apiKey: "service:nifty-fullstack-tutorial:dVhc-1D9JG4I0Ipnchgc4Q"
 	}
 });
 

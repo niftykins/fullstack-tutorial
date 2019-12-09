@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.0.0-beta.14",
     "@apollo/react-hooks": "3.0.0",
     "@reach/router": "^1.2.1",
     "apollo-cache-inmemory": "^1.6.2",
